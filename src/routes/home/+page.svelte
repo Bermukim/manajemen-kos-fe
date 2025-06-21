@@ -16,7 +16,7 @@
 </script>
 
 <main>
-	<h1>Selamat datang!</h1>
+	<h1>Selamat datangssssssss!</h1>
 	<!-- Konten aplikasi Anda di sini -->
 	<!-- <Navigation user={data.user} /> -->
 </main>
